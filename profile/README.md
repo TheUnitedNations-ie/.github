@@ -1,6 +1,6 @@
 # World Wide Developer Association
 
-This is a non-profit organization for developers (programmers) created by [Yarco Wang](http://www.bbish.net/), focusing on making verything better for programmers.
+This is a non-profit organization for developers (programmers) created by [Yarco Wang](http://www.bbish.net/), focusing on making verything better for programmers (or world).
 
 Starting from 2022-05-27, all rights reserved.
 
