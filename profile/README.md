@@ -1,19 +1,11 @@
 # World Wide Developer Association
 
-This is a non-profit organization for developers (programmers) created by [Yarco Wang](http://www.bbish.net/), focusing on making verything better for programmers (or world).
+This is a non-profit organization for developers (programmers) created by [Yarco Wang](https://www.bbish.net/), focusing on making everything better for programmers or the world (Normally titled "developers for developers").
 
-Starting from 2022-05-27, all rights reserved.
+* But at the very beginning, maybe just focus on developers in China. It doesn't mean I have bias, I'm just learning how to unite others.
 
-## Documentations
+## So here is the external links for Chinese.
 
+* [955.WLB](https://github.com/formulahendry/955.WLB) -- WLB的公司列表仓库 / A repository contains WLB companies in China
+* [996.ICU](https://996.icu/) -- 反对996工作制的网站 / A Website opposing the 996 work system
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
