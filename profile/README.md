@@ -2,7 +2,7 @@
 
 This is a non-profit organization for developers (programmers) created by [Yarco Wang](https://www.bbish.net/), focusing on making everything better for programmers or the world (Normally titled "developers for developers").
 
-* But at the very beginning, maybe just focus on developers in China. It doesn't mean I have bias, I'm just learning how to unite others.
+* But at the very beginning, maybe just focus on developers in China. It doesn't mean I have bias, I just try to learn how to unite and group others.
 
 ## So here is the external links for Chinese.
 
