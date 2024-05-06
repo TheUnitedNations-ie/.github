@@ -8,4 +8,4 @@ This is a non-profit organization for developers (programmers) created by [Yarco
 
 * [955.WLB](https://github.com/formulahendry/955.WLB) -- WLB的公司列表仓库 / A repository contains WLB companies in China
 * [996.ICU](https://996.icu/) -- 反对996工作制的网站 / A Website opposing the 996 work system
-* [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist) -- 程序员找工作黑名单 / Programmer job blacklist
+* [程序员找工作黑名单](https://github.com/JiangYuanGit/programmer-job-blacklist) -- 程序员找工作黑名单 / Programmer job blacklist
