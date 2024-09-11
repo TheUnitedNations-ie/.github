@@ -1,8 +1,10 @@
-# World Wide Developer Association
+# World Wide Developer Association / 世界开发者联盟
 
-This is a non-profit organization for developers (programmers) created by [Yarco Wang](https://www.bbish.net/), focusing on making everything better for programmers or the world (Normally titled "developers for developers").
+This is a non-profit loose organization for developers (programmers), focusing on making everything better for programmers or the world (Normally titled "developers for developers").  
+这是一个基于开发者的松散的非盈利组织，目标是让一切的变得更好（主要是面向开发者或世界）。
 
-* But at the very beginning, maybe just focus on developers in China. It doesn't mean I have bias, I just try to learn how to unite and group others. You can still ask to join and comment for free.
+* But at the very beginning, maybe only focus on developers in China. It doesn't mean I have bias, I just want to learn how to unite and group others first. You can still ask to join and comment to improve this organization.
+* 不过一开始关注的是中国范围内的事情（开发者）。不是因为有偏见，而是我在尝试学习怎么组织和联合。你依然可以加入和评论来改进这个机构。
   
 ## So here is the external links for Chinese.
 
